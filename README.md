@@ -33,3 +33,6 @@ The extension currently runs on the IU Canvas site configured in `manifest.json`
 - `content.js` loads Canvas assignments, tracks local checkoffs, and renders the todo list.
 - `styles.css` styles the widget and uses Canvas brand tokens where available.
 - `manifest.json` configures the Chrome extension.
+
+
+<img width="1901" height="867" alt="image" src="https://github.com/user-attachments/assets/5996586e-a1ca-41e1-89db-1d6dfef6aed0" />
